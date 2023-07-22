@@ -1,3 +1,3 @@
 # advice_generator_app
 
-![](./assets/img.png) ![]
+![](./assets/img.png)![]
